@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samith-P
+- 👋 Hi, I’m @Samith Parvathaneni
 - 👀 I’m interested in Cyber security and networking.
 - 🌱 I’m currently learning Networking,sql and Linux automation
 - 💞️ I’m looking to collaborate on Research projects in my University 
