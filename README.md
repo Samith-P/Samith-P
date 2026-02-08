@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Samith Parvathaneni
-- 👀 I’m interested in Cyber security and networking.
-- 🌱 I’m currently learning Networking,sql and Linux automation
-- 💞️ I’m looking to collaborate on Research projects in my University 
-- 📫 How to reach me on my mail 2320090067@klh.edu.in
+- 👀 I’m interested in Cyber security and DevSecOos.
+- 🌱 Currently learning dockers and jenkins 
+- 📫 How to reach me on my mail samithparvathaneni@klh.edu.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also really good at video games
 
