@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samith Parvathaneni
-- 👀 I’m interested in Cyber security and DevSecOos.
-- 🌱 Currently learning dockers and jenkins 
+- 👀 I’m interested in Cyber security and DevSecOps.
+- 🌱 Currently learning Docker and jenkins 
 - 📫 How to reach me on my mail samithparvathaneni@klh.edu.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also really good at video games
